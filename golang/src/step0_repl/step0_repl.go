@@ -28,7 +28,7 @@ func rep() string{
 
 func main(){
 
-	fmt.Println("R E P L")
+	fmt.Println("\v\t\t\t\t\tR E P L")
 	for i := 0 ; i < 10 ; i++ {
 		fmt.Print(rep())
 	}
